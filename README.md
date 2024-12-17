@@ -1,4 +1,4 @@
-Here’s a detailed **README.md** for your project, explaining how to use the scripts (`send.py`, `read.py`, and `create_sns_sqs.py`), and setup the environment:
+
 
 ---
 
